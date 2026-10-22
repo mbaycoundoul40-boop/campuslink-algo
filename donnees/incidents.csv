@@ -1,0 +1,21 @@
+id;titre;urgence;criticite;impact;date
+1;Vidéoprojecteur en panne (A101);Moyenne;Moyenne;30;2026-10-20 08:15
+2;Fuite d'eau dans les toilettes du bâtiment B;Haute;Haute;0;2026-10-20 09:00
+3;Wi-Fi coupé dans tout le bâtiment A;Critique;Haute;250;2026-10-20 08:45
+4;Chaise cassée (B201);Basse;Basse;1;2026-10-19 14:00
+5;Panne d'électricité amphithéâtre;Critique;Critique;120;2026-10-20 10:30
+6;Imprimante hors service (secrétariat);Moyenne;Basse;5;2026-10-18 11:00
+7;Chauffage arrêté (C102);Haute;Moyenne;60;2026-10-20 07:50
+8;PC qui ne démarre pas (A102);Moyenne;Moyenne;1;2026-10-19 16:20
+9;Porte d'issue de secours bloquée;Critique;Critique;400;2026-10-20 11:00
+10;Écran de projection déchiré (C102);Basse;Moyenne;60;2026-10-17 09:00
+11;Wi-Fi lent (bâtiment C);Moyenne;Moyenne;30;2026-10-20 08:15
+12;Switch réseau en maintenance (B102);Haute;Haute;20;2026-10-19 13:00
+13;Fenêtre qui ne ferme plus (A201);Moyenne;Basse;120;2026-10-16 10:00
+14;Micro sans fil hors service (A201);Haute;Moyenne;120;2026-10-20 09:30
+15;Odeur de brûlé salle serveur;Critique;Critique;400;2026-10-20 10:45
+16;Tableau blanc taché (B101);Basse;Basse;12;2026-10-15 15:00
+17;Climatisation bruyante (C101);Basse;Basse;15;2026-10-20 12:00
+18;Câble HDMI manquant (A101);Moyenne;Moyenne;30;2026-10-20 08:15
+19;Prise électrique arrachée (B201);Haute;Critique;35;2026-10-20 08:00
+20;Néon qui clignote (couloir C);Basse;Basse;0;2026-10-14 08:00
